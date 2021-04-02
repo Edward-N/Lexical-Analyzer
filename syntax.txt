@@ -1,0 +1,12 @@
+if (FALSE && (!TRUE))
+{
+    A=sum * (total - 47);
+    B=(4+A)%3;
+    C=B-15;
+}
+else
+{
+    A = (sum + total) * 4;
+    B=B+1;
+    C=B/2;
+}
